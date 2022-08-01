@@ -1,0 +1,1 @@
+CREATE TABLE envdata (read_at datetime, pressure float, temprature float, humidity float, anomaly_score float)
